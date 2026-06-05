@@ -1,0 +1,6 @@
+{
+  "name": "Apex Forge Fitness Portal",
+  "description": "World-class premium gym and fitness website for Apex Forge with conversion-focused lead generation, automated EmailJS delivery, local storage backup, and an admin leads dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

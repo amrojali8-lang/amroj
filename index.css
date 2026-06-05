@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Helvetica Neue", system-ui, -apple-system, sans-serif;
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+}
+
+/* Custom premium scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+  background: #ef4444;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #dc2626;
+}
+
